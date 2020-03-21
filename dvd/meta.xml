@@ -1,0 +1,5 @@
+<meta>
+	<info author = "LXOZ" name = "dvd" />
+	<script src = "lua/client/dvd.lua" type = "client" cache = "false" />
+	<file src = "materials/png/dvd.png" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<info author = "LXOZ" name = "crud" />
+	<script src = "lua/client/crud.lua" type = "client" cache = "false" />
+	<script src = "lua/server/crud.lua" type = "server" />
+	<file src = "materials/jpg/fon.jpg" />
+</meta>
